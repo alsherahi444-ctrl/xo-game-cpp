@@ -3,13 +3,36 @@ Tic Tac Toe game built in C++
 
 # XO Game (Tic Tac Toe) - C++
 
-A console-based Tic Tac Toe game written in C++.
+A simple console-based Tic Tac Toe game written in C++.
 
-## Features
+## 🎮 Features
+
 - Two-player mode
 - Input validation
-- Win detection logic
+- Automatic win detection
+- Clean game logic
 
-## How to Run
+## 🛠 Technologies
+
+- C++
+- Standard Library (iostream)
+
+## ▶ How to Run
+
+Compile:
+
 g++ xo-game.cpp -o xo
+
+Run:
+
 ./xo
+
+## 📌 Example
+
+Player 1 (X) vs Player 2 (O)
+
+Board positions:
+
+1 | 2 | 3  
+4 | 5 | 6  
+7 | 8 | 9  
